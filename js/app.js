@@ -120,7 +120,7 @@ function updatePercentage() {
 	percent = (Math.round(percent * 100) / 100);
 	percentElement = document.getElementById("percent");
 
-	percentElement.innerHTML = percent + '% <small>done</small>';
+	percentElement.innerHTML = percent + '% <small>completado</small>';
 	if(percent == 112) {
 		percentElement.className = "complete";
 	} else {
