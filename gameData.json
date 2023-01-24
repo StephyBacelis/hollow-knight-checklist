@@ -136,7 +136,7 @@
 		},
 		"descending_dark": {
 			"id": 27,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Descending_Dark\">Oscuridad descendiente</a>",
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Descending_Dark\">Oscuridad descendente</a>",
 			"percent": 1
 		},
 		"howling_wraiths": {
@@ -497,19 +497,19 @@
 		},
 		"deep_focus": {
 			"id": 91,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Deep_Focus\">Concentración profundak</a>",
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Deep_Focus\">Concentración profunda</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"lifeblood_heart": {
 			"id": 92,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Lifeblood_Heart\">Lifeblood Heart</a>",
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Lifeblood_Heart\">Corazón de saviavida</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
 		"lifeblood_core": {
 			"id": 93,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Lifeblood_Core\">Corazón de saviavida</a>",
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Lifeblood_Core\">Núcleo de saviavida</a>",
 			"icon": "charm.png",
 			"percent": 1
 		},
@@ -640,7 +640,7 @@
 		},
 		"elder_hu": {
 			"id": 116,
-			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Elder_Hu\">Elder Hu</a>",
+			"name": "<a href=\"https://hollowknight.fandom.com/wiki/Elder_Hu\">Anciano Hu</a>",
 			"percent": 1
 		},
 		"gorb": {
